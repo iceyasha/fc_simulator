@@ -7,6 +7,6 @@
 - 补充**实时存/读档**功能
 
 ## 运行情况
-![image](https://github.com/lambda-lambda/fc_simulator/blob/master/README/ballon.gif)
+![image](https://github.com/lambda-lambda/fc_simulator/blob/master/README/balloon.gif)
 
 ![image](https://github.com/lambda-lambda/fc_simulator/blob/master/README/show.jpg)
