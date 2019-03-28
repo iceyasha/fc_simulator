@@ -1,0 +1,1 @@
+{"registers": {"PPUCTRL": 144, "PPUMASK": 0, "PPUSTATUS": 160, "OAMADDR": 0, "OAMDATA": 0, "PPUSCROLL": 0, "PPUADDR": 8192, "PPUDATA": 0, "OAMDMA": 2, "v": 0, "t": 0, "e": 0, "w": 0}, "PPUADDR_write": "high"}
